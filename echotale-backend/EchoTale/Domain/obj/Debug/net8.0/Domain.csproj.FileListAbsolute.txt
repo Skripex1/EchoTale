@@ -1,0 +1,12 @@
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/bin/Debug/net8.0/Domain.dll
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/obj/Debug/net8.0/Domain.dll
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/mariusbeschieru/EchoTale/echotale-backend/EchoTale/Domain/obj/Debug/net8.0/ref/Domain.dll

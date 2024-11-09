@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EchoTale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a38e4c0dda9b4638bdb98bd200315a090a355de5")]
 [assembly: System.Reflection.AssemblyProductAttribute("EchoTale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EchoTale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
