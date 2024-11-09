@@ -1,6 +1,0 @@
-@EchoTale_HostAddress = http://localhost:5151
-
-GET {{EchoTale_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
